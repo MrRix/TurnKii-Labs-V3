@@ -1,0 +1,16 @@
+.hero h1 {
+    font-size: 60px;
+    letter-spacing: 2px;
+    margin: 10px;
+}
+
+h1.arrow {
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #353535;
+    letter-spacing: 1px;
+    background: url('../img/h1-bg.png') no-repeat center bottom;
+    padding-bottom: 30px;
+    font-weight: bold;
+    
+    
